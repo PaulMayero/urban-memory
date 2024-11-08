@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="dsvsdvd" pubkey="30820505308202eda00302010202045d137add300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f72673020170d3234313130383134343535335a180f32303532303332363134343535335a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100920637709aee35c8e1f5c3484965e04ba4ec774b4d39c983b374bbdbda0109ea6c6d16ae24c30f62dce7962da949ccbf1d5c37a56f7b80e68af456ebc65f7ea1798aa6c4e6c0daba414d04ca2d42897f3dc768409c8389ebed1ad966a9bf5b8fa3525d0cbc458daf5ee4509d81326afded3edda69f1c083619321ce58db0fd112b2cb1064201b887615ed7d9475fbde056a7d45c05ad0fb14c7980d01b640d315366238669a8c1eff37bf2a539ee355bff907ab550c059b89c75375928ccae68e43812a9c504bbdab068d2d98788dcd978bbe90e207a7e90ea0de6f77d73add5efbf7ee96ac8c8cea93c988f3220b0bc48ad699dfe8de53d9d257633aeef92ce986b557d479c790f9642f163c5923e393740b6985c440db6ff8c5db1c2cd286bae56bfe7bc94a5a943fea12909d16a05897d3a719d0e0f612f03ece2a2629146e6325130492b2901b8f057df9a271dc5b5e56a90dc7b64a4baffbfe66f4a64e84da4ede47053d9b4b84ee8f87dfacf3b211ab9e9b43cd9b0aaedb96e708e884dfaf28377765624b03be3db07cdfab75c3f46b2b14d47f87ee3cadc3d00e34f031e599cbbb53406dc6665f8e5c29f7d1750bab130257357979af78c550eb1f60c39227417769e6e21abb705f6e4db70ebb65d400ba3da9670c33993cb82d69f6b2e17a217ee4b2e5a1b87557b61fa34d01fb891ae246265acd8f676f01b264f5b0203010001a321301f301d0603551d0e041604141c5c6cec54cafbb244852202d1d9867e05e7783d300d06092a864886f70d01010b0500038202010004a043e2cb67a560a9e2ba7b73d5187420ec8490281ab449c053d0e58a6779bb937af2833400fe942ac74ef1646b7752af25eb5aa5744003a40f48e92812ac22563ba98fe00c8502a30168a505fa5cb2f64146b229a9321397a7529f5f6264f720d88cf2b40283b9578a7a1344af431766a1c68c2b580bc3fda353a169acad126ee2456b61a034cadb9d3f87e98aa77f6e87c0f3666322010b9717e9903f880b9c93c5fc1531e891611b175e5cba7bdc961efe3cca1c3b8be6091522143ea75ac95439fa0e1083dbc9438b80d72a1c4f2e461577d207ade88aab72ff1657c0f6f5ba9fcd536b6728cb888190a13b8522234f4c0e5fc2a3a5efa065c7978d9cec11764644d55ad009251d640fd501d8e12f404c422213d5f581169fc4d1f5b35bf3cdafafbd6c40c484b5178ef953ed640c75895f9ee75151869b4e6375bc0111b07fad60331b4763cc58fddf06723774a4acb7438f5655203a017fe9f9da702a1f049d37cad33ea0d3e6b762bae442901721ffd41aa1ee7d3a861c74a2375ceeae69bea6336189c9432a4c63004c55446eb7803919174065f6f7c6901919d6cd2e11df20bfa4754d56a1da865c2cd41048ddd522286761be1bfea31eecedd47e099bffd33265e40092a1a7cd6d0d4cf17ceff564bf581dbe11288e72b30777b5ba3cf002ecc720fbcab6960f3fc67d482ab54d19a817be03e2b922b1358f7a3b" timestamp="1731077845" url="https://raw.githubusercontent.com/PaulMayero/urban-memory/master/fdroid/repo" version="20001">
+		<description>dsvsdvsdv</description>
+		<mirror>https://raw.githubusercontent.com/PaulMayero/urban-memory/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="info.guardianproject.checkey">
+		<id>info.guardianproject.checkey</id>
+		<added>2024-11-08</added>
+		<lastupdated>2024-11-08</lastupdated>
+		<name>Checkey</name>
+		<summary></summary>
+		<icon>info.guardianproject.checkey.101.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>101</marketvercode>
+		<package>
+			<version>0.1.1</version>
+			<versioncode>101</versioncode>
+			<apkname>Checkey-0.1.1.apk</apkname>
+			<hash type="sha256">2d81f339bb69626af42e8868dc6928c9072ebcbae76e1ff5ac8172e78ebe9cdd</hash>
+			<size>967083</size>
+			<sdkver>8</sdkver>
+			<targetSdkVersion>21</targetSdkVersion>
+			<added>2024-11-08</added>
+			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
+			<permissions>INTERNET</permissions>
+		</package>
+	</application>
+	<application id="info.guardianproject.orfox">
+		<id>info.guardianproject.orfox</id>
+		<added>2024-11-08</added>
+		<lastupdated>2024-11-08</lastupdated>
+		<name>OrfoxRIP</name>
+		<summary></summary>
+		<icon>info.guardianproject.orfox.17.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>17</marketvercode>
+		<package>
+			<version>Orfox-Final-RIP</version>
+			<versioncode>17</versioncode>
+			<apkname>Orfox-Final-RIP-v17.apk</apkname>
+			<hash type="sha256">c43a52e31e0ecc00d12998a1676a4d3a30fdf1774aa81611b2f3ff5f75300f42</hash>
+			<size>1602513</size>
+			<sdkver>15</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2024-11-08</added>
+			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
+		</package>
+	</application>
+	<application id="info.guardianproject.pixelknot">
+		<id>info.guardianproject.pixelknot</id>
+		<added>2024-11-08</added>
+		<lastupdated>2024-11-08</lastupdated>
+		<name>PixelKnot</name>
+		<summary></summary>
+		<icon>info.guardianproject.pixelknot.6.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>6</marketvercode>
+		<package>
+			<version>0.3.3</version>
+			<versioncode>6</versioncode>
+			<apkname>PixelKnot-release-0.3.3.apk</apkname>
+			<hash type="sha256">6beede8519a9e87ba8edaa5a76f203cfefd5f39eb911e789031cc6e911714b89</hash>
+			<size>4751233</size>
+			<sdkver>14</sdkver>
+			<targetSdkVersion>17</targetSdkVersion>
+			<added>2024-11-08</added>
+			<sig>a0eeebb161f946e3516945fae8a92a3e</sig>
+			<permissions>CAMERA,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi</nativecode>
+		</package>
+	</application>
+	<application id="info.guardianproject.ripple">
+		<id>info.guardianproject.ripple</id>
+		<added>2024-11-08</added>
+		<lastupdated>2024-11-08</lastupdated>
+		<name>Ripple</name>
+		<summary></summary>
+		<icon>info.guardianproject.ripple.104.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>104</marketvercode>
+		<package>
+			<version>0.2.4</version>
+			<versioncode>104</versioncode>
+			<apkname>info.guardianproject.ripple_104.apk</apkname>
+			<hash type="sha256">c51da9a0ecf5960c9a08a4a77bc261e80b27e479f719ca641866b8a7422dcd47</hash>
+			<size>1640290</size>
+			<sdkver>10</sdkver>
+			<targetSdkVersion>23</targetSdkVersion>
+			<added>2024-11-08</added>
+			<sig>d47234c2500f43d3b273a1ee047497ed</sig>
+		</package>
+	</application>
+</fdroid>

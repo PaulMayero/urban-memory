@@ -1,0 +1,144 @@
+{
+  "repo": {
+    "timestamp": 1731077845000,
+    "version": 20001,
+    "name": "dsvsdvd",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/PaulMayero/urban-memory/master/fdroid/repo",
+    "description": "dsvsdvsdv",
+    "mirrors": [
+      "https://raw.githubusercontent.com/PaulMayero/urban-memory/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "101",
+      "license": "Unknown",
+      "name": "Checkey",
+      "added": 1731077291000,
+      "icon": "info.guardianproject.checkey.101.png",
+      "packageName": "info.guardianproject.checkey",
+      "lastUpdated": 1731077295000
+    },
+    {
+      "suggestedVersionCode": "17",
+      "license": "Unknown",
+      "name": "OrfoxRIP",
+      "added": 1731077647000,
+      "icon": "info.guardianproject.orfox.17.png",
+      "packageName": "info.guardianproject.orfox",
+      "lastUpdated": 1731077650000
+    },
+    {
+      "suggestedVersionCode": "6",
+      "license": "Unknown",
+      "name": "PixelKnot",
+      "added": 1731077487000,
+      "icon": "info.guardianproject.pixelknot.6.png",
+      "packageName": "info.guardianproject.pixelknot",
+      "lastUpdated": 1731077490000
+    },
+    {
+      "suggestedVersionCode": "104",
+      "license": "Unknown",
+      "name": "Ripple",
+      "added": 1731077563000,
+      "icon": "info.guardianproject.ripple.104.png",
+      "packageName": "info.guardianproject.ripple",
+      "lastUpdated": 1731077569000
+    }
+  ],
+  "packages": {
+    "info.guardianproject.checkey": [
+      {
+        "added": 1731077295000,
+        "apkName": "Checkey-0.1.1.apk",
+        "hash": "2d81f339bb69626af42e8868dc6928c9072ebcbae76e1ff5ac8172e78ebe9cdd",
+        "hashType": "sha256",
+        "minSdkVersion": 8,
+        "packageName": "info.guardianproject.checkey",
+        "sig": "d70ac6a02b53ebdd1354ea7af7b9ceee",
+        "signer": "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a",
+        "size": 967083,
+        "targetSdkVersion": 21,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ]
+        ],
+        "versionCode": 101,
+        "versionName": "0.1.1"
+      }
+    ],
+    "info.guardianproject.orfox": [
+      {
+        "added": 1731077650000,
+        "apkName": "Orfox-Final-RIP-v17.apk",
+        "hash": "c43a52e31e0ecc00d12998a1676a4d3a30fdf1774aa81611b2f3ff5f75300f42",
+        "hashType": "sha256",
+        "minSdkVersion": 15,
+        "packageName": "info.guardianproject.orfox",
+        "sig": "d70ac6a02b53ebdd1354ea7af7b9ceee",
+        "signer": "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a",
+        "size": 1602513,
+        "targetSdkVersion": 28,
+        "versionCode": 17,
+        "versionName": "Orfox-Final-RIP"
+      }
+    ],
+    "info.guardianproject.pixelknot": [
+      {
+        "added": 1731077490000,
+        "apkName": "PixelKnot-release-0.3.3.apk",
+        "hash": "6beede8519a9e87ba8edaa5a76f203cfefd5f39eb911e789031cc6e911714b89",
+        "hashType": "sha256",
+        "minSdkVersion": 14,
+        "nativecode": [
+          "armeabi"
+        ],
+        "packageName": "info.guardianproject.pixelknot",
+        "sig": "a0eeebb161f946e3516945fae8a92a3e",
+        "signer": "d71620711b04dfa13216116fbc8a9f3e3409846b16ff2bacf43e1c5ef5a3ed6b",
+        "size": 4751233,
+        "targetSdkVersion": 17,
+        "uses-permission": [
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 6,
+        "versionName": "0.3.3"
+      }
+    ],
+    "info.guardianproject.ripple": [
+      {
+        "added": 1731077569000,
+        "apkName": "info.guardianproject.ripple_104.apk",
+        "hash": "c51da9a0ecf5960c9a08a4a77bc261e80b27e479f719ca641866b8a7422dcd47",
+        "hashType": "sha256",
+        "minSdkVersion": 10,
+        "packageName": "info.guardianproject.ripple",
+        "sig": "d47234c2500f43d3b273a1ee047497ed",
+        "signer": "927f7e38b6acbecd84e02dace33efa9a7a2f0979750f28f585688ee38b3a4e28",
+        "size": 1640290,
+        "targetSdkVersion": 23,
+        "versionCode": 104,
+        "versionName": "0.2.4"
+      }
+    ]
+  }
+}
